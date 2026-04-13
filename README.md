@@ -1,6 +1,6 @@
-# ecommercetwoexample
+# Restaurant Application Mobile
 
-Ecommerce Two Example App
+Restaurant Two Example App
 
 ## Getting Started
 
