@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+
+class CastumTextBodyAuth extends StatelessWidget {
+  final String text;
+  const CastumTextBodyAuth({super.key, required this.text});
+
+  @override
+  Widget build(BuildContext context) {
+    return  Text(
+      text,
+      style: Theme.of(context).textTheme.bodyLarge,
+    );
+  }
+}
